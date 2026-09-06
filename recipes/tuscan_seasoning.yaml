@@ -1,0 +1,28 @@
+name: Tuscan Seasoning
+
+tags:
+- Component
+
+measurements:
+- amount: '1'
+  unit: grams
+  prefix: crushed
+  ingredient: basil
+- amount: '1'
+  unit: grams
+  ingredient: rosemary
+- amount: '2'
+  unit: grams
+  ingredient: oregano
+- amount: '3'
+  unit: grams
+  ingredient: garlic powder
+- amount: '1'
+  unit: grams
+  ingredient: cayenne pepper
+- amount: '1'
+  unit: grams
+  ingredient: fennel
+
+instructions:
+- Mix and store in an airtight container.

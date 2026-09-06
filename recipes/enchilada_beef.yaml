@@ -1,0 +1,30 @@
+name: Enchilada Beef
+
+tags:
+- Mexican
+- Entree
+
+measurements:
+- amount: '1'
+  unit: portions
+  prefix: (24 oz.)
+  ingredient: chuck roast
+- amount: 'enough'
+  ingredient: olive oil
+- amount: '24'
+  unit: grams
+  ingredient: flour
+- amount: '4'
+  unit: grams
+  ingredient: salt and pepper
+- amount: '240'
+  unit: grams
+  ingredient: water
+- amount: '15'
+  unit: grams
+  ingredient: beef concentrate
+
+instructions:
+- Dredge meat in flour and pepper. Brown in skillet.
+- Heat water to simmer, add beef concentrate.
+- Combine in crockpot, set to high for 1 hour. Turn to low for 6-7 hours.

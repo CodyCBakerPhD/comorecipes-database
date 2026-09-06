@@ -1,0 +1,22 @@
+name: Piperade Sauce
+
+tags:
+- Italian
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '1'
+  unit: portions
+  ingredient: marinara sauce
+  recipe: marinara_sauce
+- amount: '4'
+  unit: portions
+  prefix: grilled
+  ingredient: red bell pepper
+
+instructions:
+- Grill peppers ahead of time.
+- Place in plastic bags to steam.
+- Remove skins and seeds.
+- Make marinara as normal, but at the end add peppers and emulsify.

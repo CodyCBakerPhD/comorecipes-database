@@ -1,0 +1,21 @@
+name: Ravioli
+
+tags:
+- Italian
+- Pasta
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '17'
+  unit: grams
+  prefix: store-bought
+  ingredient: ravioli
+- amount: '1'
+  unit: portions
+  ingredient: marinara sauce
+  recipe: marinara_sauce
+
+instructions:
+- Follow instructions to cook ravioli.
+- Coat in marinara sauce.

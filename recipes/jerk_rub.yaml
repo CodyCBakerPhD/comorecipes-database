@@ -1,0 +1,31 @@
+name: Jerk Rub
+
+tags:
+- Jamaican
+- Vegetarian
+- Entree
+- Spicy
+
+measurements:
+- amount: '2'
+  unit: grams
+  ingredient: garlic powder
+- amount: '3'
+  unit: grams
+  ingredient: cumin
+- amount: '0.5'
+  unit: grams
+  ingredient: coriander
+- amount: '1'
+  unit: grams
+  ingredient: paprika
+- amount: '1'
+  unit: grams
+  ingredient: salt and pepper
+- amount: '14'
+  unit: grams
+  ingredient: olive oil
+
+instructions:
+- Mix dry ingredients and use oil to bind. For cooking with chicken, lather all sides
+  and grill for 4-6 minutes on each side.

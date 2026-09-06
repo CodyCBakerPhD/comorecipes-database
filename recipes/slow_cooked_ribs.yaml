@@ -1,0 +1,22 @@
+name: Slow Cooked Ribs
+
+tags:
+- American
+- Entree
+- Spicy
+
+measurements:
+- amount: '66'
+  unit: grams
+  ingredient: Sweet Fire Rub
+  recipe: sweet_fire_spice
+- amount: '0.5'
+  unit: portions
+  ingredient: baby back ribs
+
+instructions:
+- Thoroughly rub dry mix onto ribs in a separate bowl. Drizzle small amount of water
+  into bottom of pan and cover with foil.
+- Choose a BBQ sauce.
+- Bake in oven for 3 hours at 280F. Finish by grilling briefly at high heat to seal
+  in BBQ sauce.

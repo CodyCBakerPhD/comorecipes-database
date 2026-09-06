@@ -1,0 +1,33 @@
+name: Whipped Chocolate Icing
+
+tags:
+- American
+- Dessert
+- Vegetarian
+- Chocolate
+
+measurements:
+- amount: '358'
+  unit: grams
+  prefix: sifted
+  ingredient: powdered sugar
+- amount: '60'
+  unit: grams
+  ingredient: Dutch cocoa powder
+- amount: '84'
+  unit: grams
+  ingredient: butter
+  suffix: ', room temperature'
+- amount: '45'
+  unit: grams
+  ingredient: evaporated milk
+- amount: '4'
+  unit: grams
+  ingredient: vanilla
+
+instructions:
+- Sift the cocoa powder and powdered sugar together.
+- In a separate bowl, cream butter until smooth and gradually beat in sugar and evaporated
+  milk.
+- Blend in vanilla.
+- Beat until light and fluffy.

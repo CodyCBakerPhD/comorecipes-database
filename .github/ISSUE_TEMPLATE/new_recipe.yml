@@ -1,0 +1,52 @@
+name: New Recipe
+description: Request to add a new recipe to the default collection.
+title: "[New Recipe]: "
+labels: ["category: new recipe"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Thank you for taking the time to fill out this recipe request!
+
+        By submitting this request, you agree to follow our [Code of Conduct](https://github.com/CodyCBakerPhD/comorecipes-database/blob/main/.github/CODE_OF_CONDUCT.md)
+
+  - type: input
+    id: recipe_name
+    attributes:
+      label: Name
+      description: The name used to identify the recipe.
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: "Keywords to attribute to this recipe. Common examples include: 'Vegetarian', 'Entree', 'Side', or 'Dessert'."
+    validations:
+      required: true
+
+  - type: textarea
+    id: ingredients
+    attributes:
+      label: Ingredients
+      description: The ingredients and their measurements used to create the recipe.
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any notes that are distinct from the set of instructions, such as warnings about common mistakes.
+    validations:
+      required: false
+
+  - type: textarea
+    id: instructions
+    attributes:
+      label: Instructions
+      description: The instructions of how to combine the ingredients and cook the dish.
+    validations:
+      required: true

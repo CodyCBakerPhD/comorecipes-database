@@ -1,0 +1,29 @@
+name: Deploy site
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  dispatch:
+    # Asks the site repo to rebuild with the new data. Needs the SITE_DISPATCH_TOKEN
+    # secret (see README); without it the step is skipped rather than failing.
+    runs-on: ubuntu-latest
+    env:
+      SITE_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+    steps:
+      - name: Trigger site deploy
+        if: env.SITE_DISPATCH_TOKEN != ''
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ env.SITE_DISPATCH_TOKEN }}
+          repository: CodyCBakerPhD/comorecipes
+          event-type: database-updated
+          client-payload: '{"sha": "${{ github.sha }}"}'
+
+      - name: Explain the skip
+        if: env.SITE_DISPATCH_TOKEN == ''
+        run: echo "::warning::SITE_DISPATCH_TOKEN is not set, so the site was not redeployed. Run its 'Deploy site to gh-pages' workflow by hand."

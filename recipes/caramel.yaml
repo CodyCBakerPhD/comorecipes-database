@@ -1,0 +1,29 @@
+name: Caramel
+
+tags:
+- American
+- Vegetarian
+- Dessert
+
+measurements:
+- amount: '200'
+  unit: grams
+  ingredient: sugar
+- amount: '246'
+  unit: grams
+  ingredient: dark corn syrup
+- amount: '113'
+  unit: grams
+  ingredient: butter
+- amount: '115'
+  unit: grams
+  ingredient: cream
+- amount: '2'
+  unit: grams
+  ingredient: vanilla
+
+instructions:
+- Combine all ingredients except vanilla in a saucepan.
+- Cook over medium-low heat, stirring constantly, until the mixture reaches 248 F.
+- Remove from heat and stir in vanilla.
+- Pour into a greased pan and let cool.

@@ -1,0 +1,15 @@
+name: Monterey Chicken
+
+tags:
+- Side
+
+measurements:
+- amount: '1'
+  unit: portions
+  ingredient: chicken breast
+- amount: enough
+  ingredient: Monterey seasoning
+
+instructions:
+- Rub seasoning on chicken breast.
+- Grill until cooked through.

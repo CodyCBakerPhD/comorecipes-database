@@ -1,0 +1,42 @@
+name: Validate database
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build_site:
+    # Builds the site from this branch's data, which is the only consumer of the
+    # database and the strictest check of it (YAML shape, fields, recipe cross-links)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v7
+        with:
+          repository: CodyCBakerPhD/comorecipes
+          path: site
+
+      - name: Check out the database
+        uses: actions/checkout@v7
+        with:
+          path: site/database
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install dependencies
+        working-directory: site
+        run: npm ci
+
+      - name: Build site
+        working-directory: site
+        run: npm run build

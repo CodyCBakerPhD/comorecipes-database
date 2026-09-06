@@ -1,0 +1,43 @@
+name: Eggplant Parmesan
+
+tags:
+- Italian
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '3'
+  unit: portions
+  ingredient: eggplant
+- amount: '1'
+  unit: portions
+  ingredient: egg
+- amount: '300'
+  unit: grams
+  ingredient: bread crumbs
+- amount: 'enough'
+  ingredient: marinara sauce
+  recipe: marinara_sauce
+- amount: '453'
+  unit: grams
+  ingredient: mozzarella
+- amount: '25'
+  unit: grams
+  ingredient: Parmesan
+- amount: '300'
+  unit: grams
+  ingredient: bread crumbs
+- amount: '0.5'
+  unit: grams
+  ingredient: basil
+
+instructions:
+- Preheat oven to 350 degrees F.
+- Slice eggplant into 1/2 inch rounds.
+- Beat egg in a bowl.
+- Dip eggplant slices in egg, then coat in bread crumbs.
+- Place on a baking sheet and bake for 5 minutes.
+- Flip eggplant slices and bake for another 5 minutes.
+- Spread marinara sauce on the bottom of a baking dish.
+- Layer eggplant slices and top with cheese.
+- Bake ~25 minutes, until cheese is melted.

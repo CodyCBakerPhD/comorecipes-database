@@ -1,0 +1,24 @@
+name: Meatloaf Glaze
+
+tags:
+- Component
+
+measurements:
+- amount: '90'
+  unit: grams
+  ingredient: ketchup
+- amount: '5'
+  unit: grams
+  ingredient: white vinegar
+- amount: '11'
+  unit: grams
+  ingredient: brown sugar
+- amount: '1'
+  unit: grams
+  ingredient: garlic powder
+- amount: '1'
+  unit: grams
+  ingredient: onion powder
+
+instructions:
+- Mix together until smooth.

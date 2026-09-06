@@ -1,0 +1,22 @@
+name: Fried Not Chicken
+
+tags:
+- American
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '4'
+  unit: portions
+  ingredient: no-chicken tenders
+- amount: 'enough'
+  ingredient: frying breading
+  recipe: frying_breading
+- amount: 'enough'
+  ingredient: buttermilk
+
+instructions:
+- Heat oil to 325 F. Add some lime juice if feeling fruity.
+- Soak tenders in buttermilk for a few minutes.
+- Dredge with breading in a plastic bag for maximum cleanliness and adherence.
+- Fry for ~13 minutes until golden brown and crispy.

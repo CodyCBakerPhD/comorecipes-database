@@ -1,0 +1,33 @@
+name: Bratwurst
+
+tags:
+- German
+- Entree
+
+measurements:
+- amount: '2'
+  unit: portions
+  ingredient: beer
+- amount: '58'
+  unit: grams
+  ingredient: unsalted butter
+- amount: '100'
+  unit: grams
+  prefix: chopped
+  ingredient: white onion
+- amount: '10'
+  unit: grams
+  prefix: minced
+  ingredient: garlic
+- amount: '1'
+  unit: portions
+  ingredient: bratwurst or veggie brats
+- amount: '150'
+  unit: grams
+  ingredient: sauerkraut
+
+instructions:
+- Heat beer and other non-brat ingredients.
+- Parboil brats for about 10 minutes.
+- Grill until lightly charred.
+- Top with warmed sauerkraut before serving.

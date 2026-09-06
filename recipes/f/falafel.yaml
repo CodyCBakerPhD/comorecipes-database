@@ -1,0 +1,54 @@
+name: Falafel
+
+tags:
+- Greek
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '453'
+  unit: grams
+  ingredient: dried chickpeas
+- amount: '75'
+  unit: grams
+  prefix: chopped
+  ingredient: white onion
+- amount: '10'
+  unit: grams
+  ingredient: dried parsley flakes
+- amount: '25'
+  unit: grams
+  prefix: minced
+  ingredient: garlic
+- amount: '12'
+  unit: grams
+  ingredient: all-purpose flour
+- amount: '10'
+  unit: grams
+  ingredient: salt and ground black pepper
+- amount: '10'
+  unit: grams
+  ingredient: cumin
+- amount: '2'
+  unit: grams
+  ingredient: coriander
+- amount: '0.5'
+  unit: grams
+  ingredient: cayenne pepper
+- amount: '0.25'
+  unit: grams
+  ingredient: cardamom
+- amount: '1'
+  unit: portions
+  ingredient: 'Nandos Peri Peri'
+- amount: '1'
+  unit: portions
+  ingredient: mini cucumber
+- amount: '1'
+  unit: portions
+  ingredient: Tzatziki sauce
+
+instructions:
+- Soak beans overnight.
+- Grind entire mixture well in a food processor.
+- Shape and deep fry at 375 F until golden brown.

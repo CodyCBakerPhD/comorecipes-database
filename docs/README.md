@@ -1,0 +1,46 @@
+# Recipes
+
+One YAML file per recipe in [`recipes/`](../recipes), named by its stem (e.g., `marinara_sauce.yaml`), which is also the recipe's id on the site. Each file is filed under the first letter of that stem, so Marinara Sauce lives at `recipes/m/marinara_sauce.yaml`. Validation fails if a file sits under any other letter.
+
+```yaml
+name: Marinara Sauce
+
+tags:
+- Italian
+- Sauce
+
+measurements:
+- amount: '76'
+  unit: grams
+  ingredient: extra virgin olive oil
+- amount: '32'
+  unit: grams
+  prefix: minced
+  ingredient: garlic
+
+instructions:
+- Heat the oil over medium heat.
+- Add garlic and cook until golden.
+
+notes:
+- Optional free-form notes shown at the bottom of the page.
+```
+
+The 'ingredients' in high-level recipes are officially referred to as 'measurements' in the low-level API. Each measurement has an `amount` (a number, or `enough`), an optional `unit`, the `ingredient`, and optional `prefix`/`suffix` qualifiers ("minced", ", room temperature").
+
+By convention, the ingredients of a recipe are listed in the order they are incorporated.
+
+Ingredients are named in full, exactly as they should be bought and used: `unsalted butter`, `extra virgin olive oil`, `2% milk`, `granulated white sugar`. There is no shorthand for the reader to expand, so anything a name leaves out (`flour` where `all-purpose flour` is meant) really is unspecified.
+
+
+
+## Recipes as ingredients
+
+When an ingredient is another recipe (such as `marinara sauce` in Spaghetti), give the measurement a `recipe` key with that recipe's file stem. The site links the two pages both ways: the ingredient links to the component recipe, and the component recipe lists the recipes it is used in.
+
+```yaml
+- amount: '1'
+  unit: portions
+  ingredient: marinara sauce
+  recipe: marinara_sauce
+```

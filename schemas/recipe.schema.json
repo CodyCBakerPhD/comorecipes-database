@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/CodyCBakerPhD/comorecipes-database/schemas/recipe.schema.json",
   "title": "Recipe",
-  "description": "One file in recipes/. The file stem is the recipe's id and must be lowercase snake_case.",
+  "description": "One file in recipes/, filed under the first letter of its stem. The file stem is the recipe's id and must be lowercase snake_case.",
   "type": "object",
   "required": ["name", "tags", "measurements", "instructions"],
   "additionalProperties": false,

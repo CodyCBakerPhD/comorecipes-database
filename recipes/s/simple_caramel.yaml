@@ -1,0 +1,35 @@
+name: Simple Caramel
+
+tags:
+- American
+- Dessert
+- Vegetarian
+
+measurements:
+- amount: '400'
+  unit: grams
+  ingredient: sweetened condensed milk
+- amount: '98'
+  unit: grams
+  ingredient: unsalted butter
+- amount: '109'
+  unit: grams
+  ingredient: light brown sugar
+- amount: '341'
+  unit: grams
+  ingredient: light corn syrup
+- amount: '2'
+  unit: grams
+  ingredient: pure vanilla extract
+- amount: '1'
+  unit: grams
+  ingredient: salt
+
+instructions:
+- Combine condensed milk, butter, brown sugar, and corn syrup in medium saucepan over
+  medium heat.
+- Stir frequently until butter is melted and ingredients are combined.
+- Continue to constantly stir until mixture begins to boil.
+- Once mixture begins to boil, reduce heat to simmer and continue to stir.
+- Continue for 8-10 minutes until mixture has thickened and darkened.
+- Remove from heat and immediately mix in vanilla extract and salt.

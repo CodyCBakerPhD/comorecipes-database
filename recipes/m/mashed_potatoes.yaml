@@ -1,0 +1,19 @@
+name: Mashed Potatoes
+
+tags:
+- American
+- Vegetarian
+- Side
+
+measurements:
+- amount: '4'
+  unit: portions
+  ingredient: potatoes
+
+notes:
+- Add butter, cream, or cheese to make these extra tasty!
+
+instructions:
+- Thoroughly scrub the potatoes, skins on.
+- Boil potatoes in water until soft.
+- Mash.

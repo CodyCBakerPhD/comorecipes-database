@@ -1,0 +1,33 @@
+name: Sauteed Mushrooms
+
+tags:
+- American
+- Side
+- Vegetarian
+
+measurements:
+- amount: '42'
+  unit: grams
+  ingredient: extra virgin olive oil
+- amount: '42'
+  unit: grams
+  ingredient: unsalted butter
+- amount: '1'
+  unit: portions
+  prefix: whole
+  ingredient: baby bella (button) mushrooms
+- amount: '5'
+  unit: grams
+  prefix: minced
+  ingredient: garlic
+- amount: '15'
+  unit: grams
+  ingredient: red wine
+- amount: '3'
+  unit: grams
+  ingredient: salt and ground black pepper
+
+instructions:
+- Heat oil and butter in large saucepan over medium heat.
+- Cook all dry ingredients until mushrooms are lightly browned.
+- Deglaze pan with wine, reduce heat to low, and simmer until mushrooms are tender, ~6 minutes.

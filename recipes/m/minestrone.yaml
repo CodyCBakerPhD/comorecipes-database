@@ -1,0 +1,69 @@
+name: Minestrone
+
+tags:
+- Italian
+- Vegetarian
+- Entree
+- Soup
+
+measurements:
+- amount: 'enough'
+  ingredient: extra virgin olive oil
+- amount: '100'
+  unit: grams
+  prefix: chopped
+  ingredient: white onion
+- amount: '10'
+  unit: grams
+  prefix: minced
+  ingredient: garlic
+- amount: '60'
+  unit: grams
+  ingredient: carrots
+- amount: '480'
+  unit: grams
+  ingredient: no-chicken stock
+- amount: '360'
+  unit: grams
+  ingredient: water
+- amount: '3'
+  unit: grams
+  ingredient: salt and ground black pepper
+- amount: '2'
+  unit: grams
+  ingredient: Italian seasoning
+- amount: '1'
+  unit: portions
+  ingredient: kidney beans
+- amount: '850'
+  unit: grams
+  ingredient: cannellini beans
+- amount: '1'
+  unit: portions
+  ingredient: tomatoes
+- amount: '1'
+  unit: portions
+  ingredient: zucchini
+- amount: '110'
+  unit: grams
+  ingredient: shell pasta
+- amount: '50'
+  unit: grams
+  ingredient: fresh green beans
+- amount: '60'
+  unit: grams
+  ingredient: red wine
+- amount: '30'
+  unit: grams
+  ingredient: spinach
+
+instructions:
+- Saute onions and carrots in large pot with olive oil until soft.
+- Add garlic and saute for 1 minute.
+- Deglaze pot with red wine.
+- Add broth, water, and seasoning.
+- Bring to boil.
+- Add beans, tomatoes, zucchini, pasta, and green beans.
+- Simmer for at least 5 minutes.
+- Add pasta and simmer until pasta is almost cooked.
+- Add spinach and simmer until tender.

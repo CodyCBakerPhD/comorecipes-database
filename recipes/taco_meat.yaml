@@ -1,0 +1,25 @@
+name: Taco Meat
+
+tags:
+- American
+- Vegetarian
+- Entree
+- Spicy
+
+measurements:
+- amount: 'enough'
+  ingredient: avocado oil
+- amount: '453'
+  unit: grams
+  ingredient: ground beef or refried beans or Boca
+- amount: '24.5'
+  unit: grams
+  ingredient: taco seasoning
+  recipe: taco_seasoning
+- amount: 'enough'
+  ingredient: water
+
+instructions:
+- Sear meat until brown.
+- Add spice and water.
+- Cook off water to allow base to absorb spice, deglaze the pan, and allow meat to be slightly moist.

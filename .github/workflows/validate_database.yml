@@ -1,0 +1,26 @@
+name: Validate database
+# Pushes to main are validated by the Publish dist bundle workflow before it publishes.
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the database
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install pyyaml jsonschema
+
+      - name: Validate every record against its schema
+        run: python scripts/validate_database.py

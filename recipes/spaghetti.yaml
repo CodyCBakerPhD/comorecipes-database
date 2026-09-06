@@ -1,0 +1,20 @@
+name: Spaghetti
+
+tags:
+- Italian
+- Pasta
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '1'
+  unit: portions
+  ingredient: thin spaghetti
+- amount: '1'
+  unit: portions
+  ingredient: marinara sauce
+  recipe: marinara_sauce
+
+instructions:
+- Cook noodles.
+- Warm sauce.

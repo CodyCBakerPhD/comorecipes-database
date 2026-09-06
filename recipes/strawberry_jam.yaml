@@ -1,0 +1,43 @@
+name: Strawberry Jam
+
+tags:
+- American
+- Dessert
+- Vegetarian
+- Fruit
+
+measurements:
+- amount: '250'
+  unit: grams
+  ingredient: strawberries
+  suffix: ', thinly sliced'
+- amount: '40'
+  unit: grams
+  ingredient: sugar
+- amount: '40'
+  unit: grams
+  ingredient: brown sugar
+- amount: '20'
+  unit: grams
+  ingredient: honey
+- amount: '270'
+  unit: grams
+  ingredient: cornstarch
+- amount: '1'
+  unit: grams
+  ingredient: vanilla
+- amount: '1'
+  unit: grams
+  ingredient: lime juice
+
+instructions:
+- Carefully weigh the white and brown sugar into a small bowl.
+- Save adding honey this mixture until just ready to add to strawberries.
+- Heat strawberries slowly over medium-low heat stirring constantly, until juices
+  begin leaking.
+- Then quickly incorporate the sugars and cornstarch and stir well until everything
+  is homogeneous.
+- Increase heat to just above medium, and reach a boil stirring often.
+- When mixture is at boil (it remains boiling upon stirring) then stir constantly
+  for one minute and then remove from heat.
+- Let cool before using.

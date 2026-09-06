@@ -1,0 +1,22 @@
+name: Pesto
+
+tags:
+- Italian
+- Pasta
+- Vegetarian
+- Entree
+
+measurements:
+- amount: '1'
+  unit: portions
+  ingredient: shell pasta
+- amount: '1'
+  unit: portions
+  ingredient: pesto sauce
+
+notes:
+- Add pepperoni and fresh mozzarella for an extra treat!
+
+instructions:
+- Cook pasta.
+- Top with pesto sauce.

@@ -1,0 +1,26 @@
+name: Millionaire Shortbread
+
+tags:
+- British
+- Dessert
+- Vegetarian
+
+measurements:
+- amount: '1'
+  unit: portions
+  ingredient: shortbread
+  recipe: shortbread
+- amount: '1'
+  unit: portions
+  ingredient: simple caramel
+  recipe: simple_caramel
+- amount: '1'
+  unit: portions
+  ingredient: chocolate ganache
+  recipe: chocolate_ganache
+
+instructions:
+- Make shortbread, let cool at least 15 minutes.
+- Make simple caramel, and spread over shortbread. Let cool for several hours at room
+  temperature or 1 hour in refrigerator.
+- Make chocolate ganache, spread over caramel. Allow to harden before cutting.

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/CodyCBakerPhD/comorecipes-database/schemas/ingredient.schema.json",
+  "title": "Ingredient",
+  "description": "One file in ingredients/: a registered ingredient with the package defaults the desktop app uses. The file stem must be lowercase snake_case.",
+  "type": "object",
+  "required": ["name", "default_grams_per_package", "default_package_unit"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "description": "The name exactly as recipes refer to it in their measurements.",
+      "type": "string",
+      "minLength": 1
+    },
+    "default_grams_per_package": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "default_package_unit": {
+      "description": "How a package is described, e.g. 'heads' or '(16 oz.) packages'.",
+      "type": "string",
+      "minLength": 1
+    },
+    "portions_text": {
+      "description": "How a 'portions' unit of this ingredient reads on the site, e.g. 'cloves'.",
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

@@ -1,0 +1,33 @@
+name: Taco Seasoning
+
+tags:
+- Component
+
+measurements:
+- amount: '10'
+  unit: grams
+  ingredient: garlic powder
+- amount: '10'
+  unit: grams
+  ingredient: onion powder
+- amount: '10'
+  unit: grams
+  ingredient: red pepper
+- amount: '5'
+  unit: grams
+  ingredient: oregano
+- amount: '30'
+  unit: grams
+  ingredient: paprika
+- amount: '80'
+  unit: grams
+  ingredient: cumin
+- amount: '60'
+  unit: grams
+  ingredient: salt and pepper
+
+notes:
+- Makes about enough for 10 portions of taco meat.
+
+instructions:
+- Mix spice.

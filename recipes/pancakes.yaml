@@ -1,0 +1,38 @@
+name: Pancakes
+
+tags:
+- American
+- Entree
+- Breakfast
+- Vegetarian
+
+measurements:
+- amount: '120'
+  unit: grams
+  ingredient: flour
+- amount: '24'
+  unit: grams
+  ingredient: sugar
+- amount: '4'
+  unit: grams
+  ingredient: baking powder
+- amount: '2.8'
+  unit: grams
+  ingredient: baking soda
+- amount: '3'
+  unit: grams
+  ingredient: salt
+- amount: '1'
+  unit: portions
+  ingredient: egg
+- amount: '14'
+  unit: grams
+  ingredient: butter
+- amount: '227'
+  unit: grams
+  ingredient: buttermilk
+
+instructions:
+- Combine dry ingredients.
+- Melt butter, mix with egg and buttermilk; whisk well.
+- Cook on griddle.

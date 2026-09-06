@@ -1,0 +1,53 @@
+name: Publish dist bundle
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "recipes/**"
+      - "ingredients/**"
+      - "schemas/**"
+      - "scripts/**"
+      - ".github/workflows/dist.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: dist
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  validate_and_publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the database
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install pyyaml jsonschema
+
+      - name: Validate every record against its schema
+        run: python scripts/validate_database.py
+
+      - name: Build the bundle
+        run: python scripts/build_bundle.py database.json.gz
+
+      - name: Publish the bundle to the dist branch
+        # The dist branch only ever holds one commit with the latest bundle. It is deleted
+        # and recreated rather than force-pushed, so there is never any history to clobber.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan dist
+          git rm -rfq --cached .
+          git add database.json.gz
+          git commit -qm "Publish database bundle from ${GITHUB_SHA::7}"
+          git push origin --delete dist || echo "No previous dist branch to delete"
+          git push origin dist

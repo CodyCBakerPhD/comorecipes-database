@@ -1,0 +1,20 @@
+name: Queso
+
+tags:
+- Component
+
+measurements:
+- amount: '237'
+  unit: grams
+  ingredient: heavy cream
+- amount: '0.5'
+  unit: portions
+  ingredient: queso cheese
+- amount: '1'
+  unit: grams
+  ingredient: salt and pepper
+
+instructions:
+- Heat cream.
+- Slowly whisk in cheese.
+- Season.

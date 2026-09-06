@@ -1,0 +1,65 @@
+name: Doughnuts
+
+tags:
+- American
+- Dessert
+- Breakfast
+- Vegetarian
+
+measurements:
+- amount: '3.5'
+  unit: grams
+  ingredient: yeast
+- amount: '30'
+  unit: grams
+  prefix: warm
+  ingredient: water
+- amount: '169'
+  unit: grams
+  prefix: lukewarm
+  ingredient: milk
+- amount: '50'
+  unit: grams
+  ingredient: sugar
+- amount: '3'
+  unit: grams
+  ingredient: salt
+- amount: '1'
+  unit: portions
+  ingredient: egg
+- amount: '32'
+  unit: grams
+  ingredient: shortening
+- amount: '300'
+  unit: grams
+  ingredient: flour
+- amount: '38'
+  unit: grams
+  ingredient: butter
+- amount: '115'
+  unit: grams
+  ingredient: powdered sugar
+- amount: '3'
+  unit: grams
+  ingredient: vanilla
+- amount: '30'
+  unit: grams
+  prefix: hot
+  ingredient: water
+
+instructions:
+- Activate yeast.
+- In large bowl, mix together activated yeast, milk, sugar, salt, eggs, shortening,
+  and 1 cup of the flour.
+- Mix for a few minutes at low speed.
+- Beat in remaining flour half cup at a time, until dough no longer sticks to the bowl.
+- Knead by hand for 5 minutes until smooth and elastic.
+- Prove until doubled, about an hour.
+- Gently roll out to half inch thickness. Shape as desired.
+- Cover with cloth and prove again until doubled, about 40 minutes.
+- Heat oil to 350 F.
+- Slide doughnuts into hot oil using a wide spatula.
+- Turn over as they rise to the surface. Fry each side until golden brown.
+- Drain and cool on wire rack.
+- Melt the butter in a saucepan, incorporate sifted powdered sugar and vanilla.
+- Dip doughnuts in glaze while still warm.

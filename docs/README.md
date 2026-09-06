@@ -1,6 +1,6 @@
 # Recipes
 
-One YAML file per recipe in [`recipes/`](../recipes), named by its stem (`marinara_sauce.yaml`), which is also the recipe's id on the site.
+One YAML file per recipe in [`recipes/`](../recipes), named by its stem (e.g., `marinara_sauce.yaml`), which is also the recipe's id on the site.
 
 ```yaml
 name: Marinara Sauce

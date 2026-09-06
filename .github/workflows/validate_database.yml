@@ -1,9 +1,7 @@
 name: Validate database
+# Pushes to main are validated by the Publish dist bundle workflow before it publishes.
 on:
   pull_request:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:

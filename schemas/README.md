@@ -11,4 +11,4 @@ pip install pyyaml jsonschema
 python scripts/validate_database.py
 ```
 
-The site is built from whatever is on `main`, so once a change passes here it will show up on the site at its next scheduled deploy (daily), or sooner if the site's "Deploy site to gh-pages" workflow is run by hand from its Actions tab.
+Once a change is merged to `main` it is validated again and published as a single bundle for the site to read; see [`scripts/`](../scripts/README.md).

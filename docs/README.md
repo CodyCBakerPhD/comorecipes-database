@@ -1,6 +1,6 @@
 # Recipes
 
-One YAML file per recipe in [`recipes/`](../recipes), named by its stem (e.g., `marinara_sauce.yaml`), which is also the recipe's id on the site.
+One YAML file per recipe in [`recipes/`](../recipes), named by its stem (e.g., `marinara_sauce.yaml`), which is also the recipe's id on the site. Each file is filed under the first letter of that stem, so Marinara Sauce lives at `recipes/m/marinara_sauce.yaml`. Validation fails if a file sits under any other letter.
 
 ```yaml
 name: Marinara Sauce

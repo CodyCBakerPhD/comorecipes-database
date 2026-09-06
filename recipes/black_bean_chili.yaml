@@ -18,6 +18,10 @@ measurements:
 - amount: '1'
   unit: portions
   ingredient: fresh tomatoes
+- amount: '150'
+  unit: grams
+  prefix: diced
+  ingredient: squash
 - amount: '40'
   unit: grams
   ingredient: black bean chili spice
@@ -34,3 +38,4 @@ instructions:
 - Mix all dry ingredients separately and add to the mixture.
 - Add beans and some extra oil.
 - Stir and simmer for at least 70 minutes.
+- Add diced squash about 20 minutes before serving.

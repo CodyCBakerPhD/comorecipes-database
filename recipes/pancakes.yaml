@@ -31,8 +31,12 @@ measurements:
 - amount: '227'
   unit: grams
   ingredient: buttermilk
+- amount: '100'
+  unit: grams
+  ingredient: blueberries
 
 instructions:
 - Combine dry ingredients.
 - Melt butter, mix with egg and buttermilk; whisk well.
 - Cook on griddle.
+- Add blueberries immediately after placing batter on griddle.

@@ -41,7 +41,7 @@ measurements:
   ingredient: powdered sugar
 - amount: '3'
   unit: grams
-  ingredient: vanilla extract
+  ingredient: pure vanilla extract
 - amount: '30'
   unit: grams
   prefix: hot

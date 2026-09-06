@@ -14,6 +14,7 @@ measurements:
   ingredient: dried ground ginger
 - amount: '10'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '27'
   unit: grams

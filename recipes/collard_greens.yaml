@@ -11,9 +11,11 @@ measurements:
   ingredient: extra virgin olive oil
 - amount: '250'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '10'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '8'
   unit: grams

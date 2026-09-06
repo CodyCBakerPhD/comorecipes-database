@@ -28,6 +28,7 @@ measurements:
   ingredient: juiced oranges
 - amount: '10'
   unit: grams
+  prefix: minced
   ingredient: garlic
 
 instructions:

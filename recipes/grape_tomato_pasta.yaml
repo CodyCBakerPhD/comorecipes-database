@@ -13,6 +13,7 @@ measurements:
   ingredient: extra virgin olive oil
 - amount: '8'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '298'
   unit: grams

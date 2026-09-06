@@ -11,12 +11,14 @@ measurements:
   ingredient: dried chickpeas
 - amount: '75'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '10'
   unit: grams
   ingredient: dried parsley flakes
 - amount: '25'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '12'
   unit: grams

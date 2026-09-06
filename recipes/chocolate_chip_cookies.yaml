@@ -21,7 +21,7 @@ measurements:
   ingredient: egg
 - amount: '8'
   unit: grams
-  ingredient: vanilla extract
+  ingredient: pure vanilla extract
 - amount: '5.5'
   unit: grams
   ingredient: baking soda
@@ -37,6 +37,7 @@ measurements:
   ingredient: salt
 - amount: '340'
   unit: grams
+  prefix: high-quality
   ingredient: semi-sweet chocolate chips
 
 notes:

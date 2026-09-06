@@ -14,6 +14,7 @@ measurements:
   ingredient: shallots
 - amount: '10'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '210'
   unit: grams

@@ -14,6 +14,7 @@ measurements:
   ingredient: no-chicken stock
 - amount: '200'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '0.5'
   unit: portions

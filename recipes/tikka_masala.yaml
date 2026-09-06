@@ -17,6 +17,7 @@ measurements:
   ingredient: peanut oil
 - amount: '250'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '16'
   unit: grams
@@ -24,6 +25,7 @@ measurements:
   ingredient: garlic
 - amount: '250'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '33.5'
   unit: grams

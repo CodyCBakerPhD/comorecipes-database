@@ -23,6 +23,7 @@ measurements:
   ingredient: corn
 - amount: '200'
   unit: grams
+  prefix: quartered
   ingredient: white onion
 
 instructions:

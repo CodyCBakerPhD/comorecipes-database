@@ -8,6 +8,7 @@ measurements:
   ingredient: extra virgin olive oil
 - amount: '100'
   unit: grams
+  prefix: chopped
   ingredient: red onion
 - amount: '16'
   unit: grams

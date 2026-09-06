@@ -10,6 +10,7 @@ tags:
 measurements:
 - amount: '10'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '125'
   unit: grams
@@ -17,7 +18,7 @@ measurements:
   ingredient: white onion
 - amount: '1'
   unit: portions
-  ingredient: fresh tomatoes
+  ingredient: ripe fresh tomatoes
 - amount: '150'
   unit: grams
   prefix: diced

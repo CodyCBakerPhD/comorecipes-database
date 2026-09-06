@@ -8,13 +8,14 @@ tags:
 measurements:
 - amount: '200'
   unit: grams
+  prefix: high-quality
   ingredient: bittersweet chocolate
 - amount: '56'
   unit: grams
   ingredient: unsalted butter
 - amount: '6'
   unit: grams
-  ingredient: vanilla extract
+  ingredient: pure vanilla extract
 - amount: '3'
   unit: portions
   ingredient: egg yolk

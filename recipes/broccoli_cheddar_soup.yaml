@@ -12,6 +12,7 @@ measurements:
   ingredient: unsalted butter
 - amount: '125'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '1'
   unit: portions

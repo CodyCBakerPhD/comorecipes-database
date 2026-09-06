@@ -21,9 +21,11 @@ measurements:
   ingredient: heavy cream
 - amount: '142'
   unit: grams
+  prefix: high-quality
   ingredient: semi-sweet chocolate
 - amount: '200'
   unit: grams
+  prefix: high-quality
   ingredient: semi-sweet chocolate
 - amount: '60'
   unit: grams

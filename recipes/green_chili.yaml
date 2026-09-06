@@ -13,10 +13,11 @@ measurements:
   ingredient: unsalted butter
 - amount: '250'
   unit: grams
+  prefix: diced
   ingredient: white onion
 - amount: '1'
   unit: portions
-  ingredient: fresh tomatoes
+  ingredient: ripe fresh tomatoes
 - amount: '10'
   unit: portions
   ingredient: Anaheim peppers

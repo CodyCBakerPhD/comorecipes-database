@@ -29,9 +29,11 @@ measurements:
   ingredient: avocado oil
 - amount: '125'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '10'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '3'
   unit: grams

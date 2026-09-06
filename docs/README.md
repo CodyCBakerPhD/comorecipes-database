@@ -1,6 +1,6 @@
 # Recipes
 
-One YAML file per recipe, named by its stem (`marinara_sauce.yaml`), which is also the recipe's id on the site.
+One YAML file per recipe in [`recipes/`](../recipes), named by its stem (`marinara_sauce.yaml`), which is also the recipe's id on the site.
 
 ```yaml
 name: Marinara Sauce
@@ -32,6 +32,8 @@ By convention, the ingredients of a recipe are listed in the order they are inco
 
 Ingredients are named in full, exactly as they should be bought and used: `unsalted butter`, `extra virgin olive oil`, `2% milk`, `granulated white sugar`. There is no shorthand for the reader to expand, so anything a name leaves out (`flour` where `all-purpose flour` is meant) really is unspecified.
 
+Preparation is just as explicit: the `prefix` says how this recipe wants the ingredient (`minced garlic`, `chopped white onion`, `sliced white onion` where the recipe layers them), and anything that needs a step of its own is a step in `instructions`. There are no household defaults applied silently on top of what a recipe says.
+
 The exact rules are in [`schemas/recipe.schema.json`](../schemas/recipe.schema.json).
 
 
@@ -48,23 +50,3 @@ When an ingredient is another recipe (such as `marinara sauce` in Spaghetti), gi
 ```
 
 Links are only ever declared this way, never inferred from the ingredient name, so an ingredient that merely shares a recipe's name (the raw `celery` in Cornbread Dressing) stays a plain ingredient. Validation fails if the stem does not exist or names the recipe itself.
-
-
-
-## Default practices
-
-Onions and garlic will always be chopped.
-
-Fresh tomatoes should be the ripest able to be purchased (usually from Costco), ideally garden grown.
-
-Potatoes are always scrubbed thoroughly or peeled if necessary.
-
-
-
-## Quality
-
-All chocolate references assume the highest quality available, such as Ghirardelli.
-
-All cocoa powders assume Dutch processed.
-
-Vanilla extract is assumed to be pure, not synthetic.

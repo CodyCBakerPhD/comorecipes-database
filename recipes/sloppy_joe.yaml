@@ -15,6 +15,7 @@ measurements:
   ingredient: ground beef or Boca crumbles
 - amount: '50'
   unit: grams
+  prefix: chopped
   ingredient: red onion
 - amount: '2'
   unit: grams

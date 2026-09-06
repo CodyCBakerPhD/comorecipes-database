@@ -22,9 +22,11 @@ measurements:
   ingredient: unsalted butter
 - amount: '15'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '75'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '60'
   unit: grams

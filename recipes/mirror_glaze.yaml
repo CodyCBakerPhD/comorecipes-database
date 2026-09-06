@@ -23,6 +23,7 @@ measurements:
   ingredient: sweetened condensed milk
 - amount: '300'
   unit: grams
+  prefix: high-quality
   ingredient: white chocolate
 
 instructions:

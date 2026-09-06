@@ -15,12 +15,14 @@ measurements:
   ingredient: napa cabbage
 - amount: '250'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '4'
   unit: grams
   ingredient: fresh ginger root
 - amount: '15'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '60'
   unit: grams

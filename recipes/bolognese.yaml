@@ -11,6 +11,7 @@ measurements:
   ingredient: extra virgin olive oil
 - amount: '200'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '70'
   unit: grams
@@ -39,7 +40,7 @@ measurements:
   ingredient: no-chicken stock
 - amount: '1'
   unit: portions
-  ingredient: fresh tomatoes
+  ingredient: ripe fresh tomatoes
   suffix: ', some diced and some crushed'
 - amount: '100'
   unit: grams

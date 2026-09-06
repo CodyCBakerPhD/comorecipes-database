@@ -18,7 +18,7 @@ measurements:
   ingredient: egg
 - amount: '4'
   unit: grams
-  ingredient: vanilla extract
+  ingredient: pure vanilla extract
 - amount: '1'
   unit: grams
   ingredient: baking powder
@@ -33,6 +33,7 @@ measurements:
   ingredient: all-purpose flour
 - amount: '42'
   unit: grams
+  prefix: high-quality
   ingredient: chocolate chips
 
 instructions:

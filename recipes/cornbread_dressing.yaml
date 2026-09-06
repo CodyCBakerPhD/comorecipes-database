@@ -18,6 +18,7 @@ measurements:
   ingredient: celery
 - amount: '75'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '480'
   unit: grams

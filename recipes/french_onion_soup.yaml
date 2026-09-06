@@ -11,6 +11,7 @@ measurements:
   ingredient: unsalted butter
 - amount: '800'
   unit: grams
+  prefix: sliced
   ingredient: white onion
 - amount: '4'
   unit: grams

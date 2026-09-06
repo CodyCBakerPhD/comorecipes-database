@@ -11,6 +11,7 @@ measurements:
   ingredient: potatoes
 - amount: '250'
   unit: grams
+  prefix: sliced
   ingredient: white onion
 - amount: '4'
   unit: grams
@@ -30,6 +31,7 @@ measurements:
 
 instructions:
 - Preheat to 400 F. Butter the casserole dish.
+- Thoroughly scrub the potatoes, skins on.
 - Layer half of potatoes into bottom of dish. Top with onions and add remaining potatoes.
   Season with salt and pepper.
 - In medium-sized pan, melt butter over medium heat. Mix in flour and salt. Stir constantly

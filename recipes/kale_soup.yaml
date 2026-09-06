@@ -11,9 +11,11 @@ measurements:
   ingredient: extra virgin olive oil
 - amount: '100'
   unit: grams
+  prefix: chopped
   ingredient: white onion
 - amount: '8'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '1'
   unit: portions
@@ -27,7 +29,7 @@ measurements:
   ingredient: no-chicken bouillon
 - amount: '0.5'
   unit: portions
-  ingredient: fresh tomatoes
+  ingredient: ripe fresh tomatoes
 - amount: '3'
   unit: portions
   prefix: cubed
@@ -47,6 +49,7 @@ measurements:
   ingredient: salt and ground black pepper
 
 instructions:
+- Thoroughly scrub the potatoes, skins on.
 - Heat olive oil in a large soup pot. Cook the onion and garlic until soft. Stir in
   the kale and cook until wilted (about 2 minutes).
 - Stir in the water, bouillon, tomatoes, potatoes, beans, Italian seasoning, parsley.

@@ -7,6 +7,7 @@ tags:
 measurements:
 - amount: '113'
   unit: grams
+  prefix: high-quality
   ingredient: semi-sweet chocolate
 - amount: '75'
   unit: grams
@@ -25,7 +26,7 @@ measurements:
   ingredient: salt
 - amount: '4'
   unit: grams
-  ingredient: vanilla extract
+  ingredient: pure vanilla extract
 - amount: '28'
   unit: grams
   ingredient: unsalted butter

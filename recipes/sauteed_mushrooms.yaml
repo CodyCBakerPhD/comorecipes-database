@@ -18,6 +18,7 @@ measurements:
   ingredient: baby bella (button) mushrooms
 - amount: '5'
   unit: grams
+  prefix: minced
   ingredient: garlic
 - amount: '15'
   unit: grams

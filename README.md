@@ -2,7 +2,7 @@
 
 The collection of recipes for our household: one YAML file per recipe in `recipes/` and one per registered ingredient in `ingredients/`.
 
-This repo is the source of truth for the data only. The [CoMo Recipes website](https://github.com/CodyCBakerPhD/comorecipes) is built from it and redeploys whenever `main` here changes (see [Deploying the site](#deploying-the-site)).
+This repo is the source of truth for the data only. The [CoMo Recipes website](https://github.com/CodyCBakerPhD/comorecipes) is built from `main` here on a daily schedule, and trusts that every record has passed [validation](#validation).
 
 
 
@@ -117,19 +117,13 @@ Vanilla extract is assumed to be pure, not synthetic.
 
 ## Validation
 
-Every pull request runs the [Validate database](.github/workflows/validate_database.yml) workflow, which checks out the site repo and builds it against this branch's data. That catches malformed YAML, missing fields, and broken `recipe:` cross-links before they can break a deploy.
+The shape of each record is defined by a JSON Schema in `schemas/`: [`recipe.schema.json`](schemas/recipe.schema.json) for `recipes/` and [`ingredient.schema.json`](schemas/ingredient.schema.json) for `ingredients/`. Every pull request runs the [Validate database](.github/workflows/validate_database.yml) workflow, which checks each file against its schema and then the rules a schema cannot express: file stems are lowercase snake_case, names are unique, and every `recipe:` cross-link points at a recipe that exists and is not the recipe itself.
 
-To run the same check locally, clone the site repo and point its build at your checkout of this one:
+To run the same check locally:
 
 ```sh
-git clone https://github.com/CodyCBakerPhD/comorecipes
-cd comorecipes
-npm ci
-DATABASE_DIR=/path/to/comorecipes-database npm run build
+pip install pyyaml jsonschema
+python scripts/validate_database.py
 ```
 
-
-
-## Deploying the site
-
-Pushes to `main` here run the [Deploy site](.github/workflows/deploy_site.yml) workflow, which sends a `repository_dispatch` event to the site repo so it rebuilds with the new data. That needs a `SITE_DISPATCH_TOKEN` repository secret: a fine-grained personal access token scoped to `CodyCBakerPhD/comorecipes` with **Contents: read and write** permission (the permission GitHub requires to create dispatch events). If the secret is not set the workflow is skipped and the site can be redeployed by hand from its Actions tab.
+The site is built from whatever is on `main`, so once a change passes here it will show up on the site at its next scheduled deploy (daily), or sooner if the site's "Deploy site to gh-pages" workflow is run by hand from its Actions tab.

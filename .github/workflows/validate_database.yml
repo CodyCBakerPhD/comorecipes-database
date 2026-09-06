@@ -10,33 +10,19 @@ permissions:
   contents: read
 
 jobs:
-  build_site:
-    # Builds the site from this branch's data, which is the only consumer of the
-    # database and the strictest check of it (YAML shape, fields, recipe cross-links)
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the site
-        uses: actions/checkout@v7
-        with:
-          repository: CodyCBakerPhD/comorecipes
-          path: site
-
       - name: Check out the database
         uses: actions/checkout@v7
-        with:
-          path: site/database
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: site/package-lock.json
+          python-version: "3.13"
 
       - name: Install dependencies
-        working-directory: site
-        run: npm ci
+        run: pip install pyyaml jsonschema
 
-      - name: Build site
-        working-directory: site
-        run: npm run build
+      - name: Validate every record against its schema
+        run: python scripts/validate_database.py

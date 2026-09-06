@@ -20,8 +20,12 @@ measurements:
 - amount: '1'
   unit: portions
   ingredient: bratwurst or veggie brats
+- amount: '150'
+  unit: grams
+  ingredient: sauerkraut
 
 instructions:
 - Heat beer and other non-brat ingredients.
 - Parboil brats for about 10 minutes.
 - Grill until lightly charred.
+- Top with warmed sauerkraut before serving.

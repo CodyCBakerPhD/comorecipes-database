@@ -12,22 +12,22 @@ measurements:
   suffix: chopped
   ingredient: cauliflower
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '226'
   unit: grams
   ingredient: cavatappi
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '30'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '500'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '2'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '50'
   unit: grams
   ingredient: Parmesan

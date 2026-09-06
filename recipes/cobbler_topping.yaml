@@ -8,22 +8,22 @@ tags:
 measurements:
 - amount: '76'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '33'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '36'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '1'
   unit: portions
   ingredient: egg
 - amount: '1'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '30'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '0.5'
   unit: grams
   ingredient: baking powder

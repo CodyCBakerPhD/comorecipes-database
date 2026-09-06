@@ -6,14 +6,14 @@ tags:
 measurements:
 - amount: '3.5'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '50'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '125'
   unit: grams
   prefix: warm
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '1'
   unit: portions
   ingredient: egg

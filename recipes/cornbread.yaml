@@ -8,10 +8,10 @@ tags:
 measurements:
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '33'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '1'
   unit: portions
   ingredient: egg
@@ -26,7 +26,7 @@ measurements:
   ingredient: cornmeal
 - amount: '60'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '1'
   unit: grams
   ingredient: salt

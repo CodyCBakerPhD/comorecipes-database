@@ -11,16 +11,16 @@ measurements:
   ingredient: potatoes
 - amount: '250'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '4'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '42'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '24'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '500'
   unit: grams
   ingredient: whole milk

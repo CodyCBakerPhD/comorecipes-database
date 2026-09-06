@@ -8,10 +8,10 @@ tags:
 measurements:
 - amount: '230'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '100'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '17'
   unit: grams
   ingredient: pumpkin puree
@@ -20,7 +20,7 @@ measurements:
   ingredient: pumpkin pie spice
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Combine heavy cream, sugar, pumpkin puree and pumpkin spice in a saucepan. Whisk

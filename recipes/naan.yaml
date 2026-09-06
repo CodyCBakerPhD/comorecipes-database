@@ -8,23 +8,23 @@ tags:
 measurements:
 - amount: '2'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '6'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '60'
   unit: grams
   prefix: warm
   ingredient: water
 - amount: '5'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '1'
   unit: portions
   ingredient: egg
 - amount: '14'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '100'
   unit: grams
   ingredient: bread flour

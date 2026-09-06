@@ -12,7 +12,7 @@ measurements:
   ingredient: plums
 - amount: '25'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: 'enough'
   ingredient: coconut oil
 - amount: '60'
@@ -20,7 +20,7 @@ measurements:
   ingredient: balsamic vinegar
 - amount: '0.5'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: grams
   prefix: chopped

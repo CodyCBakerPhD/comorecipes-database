@@ -10,10 +10,10 @@ tags:
 measurements:
 - amount: '14'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '250'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '1'
   unit: portions
   ingredient: fresh tomatoes
@@ -25,7 +25,7 @@ measurements:
   ingredient: Jalapeno peppers
 - amount: '8'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '2'
   unit: grams
   ingredient: ground mustard
@@ -37,10 +37,10 @@ measurements:
   ingredient: garlic powder
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '30'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 
 instructions:
 - Grill the Anaheim peppers ahead of time; when skin is blackened, place into plastic

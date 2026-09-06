@@ -11,7 +11,7 @@ measurements:
   ingredient: sesame oil
 - amount: '3'
   unit: grams
-  ingredient: ginger
+  ingredient: dried ground ginger
 - amount: '10'
   unit: grams
   ingredient: garlic
@@ -32,7 +32,7 @@ measurements:
   ingredient: cornstarch
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '0.5'
   unit: grams
   ingredient: red pepper flakes

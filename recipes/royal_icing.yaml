@@ -10,7 +10,7 @@ measurements:
   ingredient: egg white
 - amount: '150'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '2.8'
   unit: grams
   ingredient: light corn syrup
@@ -23,7 +23,7 @@ measurements:
   ingredient: salt
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Combine all ingredients except vanilla in top of double boiler.

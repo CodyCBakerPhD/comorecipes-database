@@ -27,13 +27,13 @@ measurements:
   ingredient: ketchup
 - amount: '4'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '10'
   unit: grams
   ingredient: molasses
 - amount: '1'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 
 instructions:
 - Brown meat. Mix spices. Simmer until good consistency.

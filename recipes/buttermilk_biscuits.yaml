@@ -8,10 +8,10 @@ tags:
 measurements:
 - amount: '50'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '145'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '6'
   unit: grams
   ingredient: baking powder

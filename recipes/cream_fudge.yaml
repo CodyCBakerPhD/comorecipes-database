@@ -9,7 +9,7 @@ tags:
 measurements:
 - amount: '100'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '47'
   unit: grams
   ingredient: whole milk
@@ -18,10 +18,10 @@ measurements:
   ingredient: light corn syrup
 - amount: '42.5'
   unit: grams
-  ingredient: condensed milk
+  ingredient: sweetened condensed milk
 - amount: '19'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 
 instructions:
 - Butter heat-proof pan.

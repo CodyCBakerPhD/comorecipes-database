@@ -11,23 +11,23 @@ measurements:
   ingredient: whole milk
 - amount: '65'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '5'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '2'
   unit: portions
   ingredient: egg
   suffix: ', room temperature'
 - amount: '330'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '6'
   unit: grams
   ingredient: salt
 - amount: '113'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 
 instructions:
 - Heat milk to 110 F in small saucepan over medium heat.

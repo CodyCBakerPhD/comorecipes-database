@@ -9,13 +9,13 @@ measurements:
   ingredient: peaches
 - amount: '12'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '12'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '0.5'
   unit: grams
-  ingredient: cinnamon
+  ingredient: ground cinnamon
 - amount: '0.5'
   unit: grams
   ingredient: nutmeg

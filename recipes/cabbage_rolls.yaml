@@ -15,10 +15,10 @@ measurements:
   ingredient: napa cabbage
 - amount: '250'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '4'
   unit: grams
-  ingredient: fresh ginger
+  ingredient: fresh ginger root
 - amount: '15'
   unit: grams
   ingredient: garlic
@@ -36,7 +36,7 @@ measurements:
   ingredient: tamari
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '0.5'
   unit: grams
   ingredient: onion powder

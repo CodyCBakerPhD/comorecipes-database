@@ -12,7 +12,7 @@ measurements:
   ingredient: Dutch cocoa powder
 - amount: '38'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '29'
   unit: grams
   ingredient: powdered sugar
@@ -21,7 +21,7 @@ measurements:
   ingredient: evaporated milk
 - amount: '2'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 notes:
   - DO NOT FORGET to sift all dry ingredients.

@@ -8,13 +8,13 @@ tags:
 measurements:
 - amount: '90'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '30'
   unit: grams
   ingredient: cornstarch
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '2'
   unit: grams
   ingredient: garlic powder
@@ -29,7 +29,7 @@ measurements:
   ingredient: hot sauce
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 
 instructions:
 - Preheat oven to 450 F.

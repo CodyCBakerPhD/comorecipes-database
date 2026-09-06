@@ -8,13 +8,13 @@ tags:
 measurements:
 - amount: '277'
   unit: grams
-  ingredient: rice
+  ingredient: white rice
 - amount: '480'
   unit: grams
   ingredient: water
 - amount: '14'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 
 instructions:
 - Thoroughly rinse and pre-soak rice for 15 minutes.

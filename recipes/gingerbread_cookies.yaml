@@ -8,7 +8,7 @@ tags:
 measurements:
 - amount: '180'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '80'
   unit: grams
   ingredient: dark brown sugar
@@ -17,10 +17,10 @@ measurements:
   ingredient: baking soda
 - amount: '4'
   unit: grams
-  ingredient: cinnamon
+  ingredient: ground cinnamon
 - amount: '2.5'
   unit: grams
-  ingredient: ginger
+  ingredient: dried ground ginger
 - amount: 0.5
   unit: grams
   ingredient: cloves
@@ -29,7 +29,7 @@ measurements:
   ingredient: salt
 - amount: '85'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '125'
   unit: grams
   ingredient: molasses

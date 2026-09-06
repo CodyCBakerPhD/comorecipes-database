@@ -18,10 +18,10 @@ measurements:
   ingredient: salt
 - amount: '30'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '3'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Do not forget to sift dry ingredients.

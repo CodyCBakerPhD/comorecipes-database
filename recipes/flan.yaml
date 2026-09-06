@@ -16,16 +16,16 @@ measurements:
   ingredient: salt
 - amount: '397'
   unit: grams
-  ingredient: condensed milk
+  ingredient: sweetened condensed milk
 - amount: '340'
   unit: grams
   ingredient: evaporated milk
 - amount: '13'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '200'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '60'
   unit: grams
   ingredient: water

@@ -8,19 +8,19 @@ tags:
 measurements:
 - amount: '226'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '300'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '8'
   unit: portions
   ingredient: egg yolk
 - amount: '180'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '6'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '240'
   unit: grams
   ingredient: cake flour

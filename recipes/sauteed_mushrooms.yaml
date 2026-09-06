@@ -8,14 +8,14 @@ tags:
 measurements:
 - amount: '42'
   unit: grams
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '42'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '1'
   unit: portions
   prefix: whole
-  ingredient: mushrooms
+  ingredient: baby bella (button) mushrooms
 - amount: '5'
   unit: grams
   ingredient: garlic
@@ -24,7 +24,7 @@ measurements:
   ingredient: red wine
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 
 instructions:
 - Heat oil and butter in large saucepan over medium heat.

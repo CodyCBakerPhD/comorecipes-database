@@ -8,19 +8,19 @@ tags:
 measurements:
 - amount: '200'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '246'
   unit: grams
   ingredient: dark corn syrup
 - amount: '113'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '115'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '2'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Combine all ingredients except vanilla in a saucepan.

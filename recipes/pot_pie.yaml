@@ -15,10 +15,10 @@ measurements:
   ingredient: firm tofu
 - amount: '28'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '100'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
   suffix: ', finely chopped'
 - amount: '100'
   unit: grams
@@ -30,10 +30,10 @@ measurements:
   ingredient: potatoes
 - amount: '8'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '30'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '240'
   unit: grams
   ingredient: no-chicken stock
@@ -48,7 +48,7 @@ measurements:
   ingredient: thinly sliced chives
 - amount: '5'
   unit: grams
-  ingredient: parsley
+  ingredient: dried parsley flakes
 - amount: '30'
   unit: grams
   ingredient: white vinegar

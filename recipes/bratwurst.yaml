@@ -10,10 +10,10 @@ measurements:
   ingredient: beer
 - amount: '58'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '100'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '10'
   unit: grams
   ingredient: garlic

@@ -13,10 +13,10 @@ measurements:
   ingredient: bottle of ruby port
 - amount: '50'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '55'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '2'
   unit: portions
   ingredient: cinnamon sticks
@@ -31,7 +31,7 @@ measurements:
   ingredient: nutmeg
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: portions
   ingredient: lemon zest
@@ -40,7 +40,7 @@ measurements:
   ingredient: orange zest
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 
 instructions:
 - Combine all ingredients except pears in a saucepan.

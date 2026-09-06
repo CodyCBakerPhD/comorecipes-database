@@ -9,25 +9,25 @@ measurements:
 - amount: '227'
   unit: grams
   prefix: room temperature
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '66'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '72'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '1'
   unit: portions
   ingredient: egg yolk
 - amount: '3'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: grams
   ingredient: salt
 - amount: '270'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 
 instructions:
 - Preheat oven to 350 F. Line a 13x9 baking pan with parchment paper.

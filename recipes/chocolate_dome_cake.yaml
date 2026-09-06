@@ -12,13 +12,13 @@ measurements:
   ingredient: egg
 - amount: '200'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '90'
   unit: grams
   ingredient: cake flour
 - amount: '120'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '142'
   unit: grams
   ingredient: semi-sweet chocolate
@@ -31,7 +31,7 @@ measurements:
   ingredient: raspberries
 - amount: '100'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '2.5'
   unit: grams
   ingredient: lime juice

@@ -15,13 +15,13 @@ measurements:
   ingredient: Dutch cocoa powder
 - amount: '113'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '60'
   unit: grams
   ingredient: chocolate milk
 - amount: '17'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - One of several variations on chocolate fudge.

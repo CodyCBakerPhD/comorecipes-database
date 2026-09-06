@@ -5,7 +5,7 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '100'
   unit: grams
   ingredient: red onion
@@ -18,8 +18,7 @@ measurements:
   ingredient: red wine
 - amount: '1'
   unit: portions
-  ingredient: crushed tomatoes
-  suffix: (canned)
+  ingredient: canned crushed tomatoes (28 oz.)
 - amount: '1'
   unit: portions
   ingredient: tomato paste

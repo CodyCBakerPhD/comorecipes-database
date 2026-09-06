@@ -9,7 +9,7 @@ measurements:
 - amount: '35'
   unit: grams
   prefix: melted and cooled
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '1'
   unit: portions
   ingredient: egg
@@ -18,10 +18,10 @@ measurements:
   ingredient: buttermilk
 - amount: '1'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '60'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '3'
   unit: grams
   ingredient: baking powder
@@ -30,7 +30,7 @@ measurements:
   ingredient: baking soda
 - amount: '2'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '1'
   unit: grams
   ingredient: salt

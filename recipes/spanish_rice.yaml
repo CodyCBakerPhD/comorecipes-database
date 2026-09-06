@@ -8,7 +8,7 @@ tags:
 measurements:
 - amount: '14'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '30'
   unit: grams
   ingredient: shallots
@@ -20,7 +20,7 @@ measurements:
   ingredient: brown rice
 - amount: '4'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '600'
   unit: grams
   ingredient: no-chicken stock
@@ -29,7 +29,7 @@ measurements:
   ingredient: fresh thyme
 - amount: '1.5'
   unit: grams
-  ingredient: parsley
+  ingredient: dried parsley flakes
 
 instructions:
 - Melt butter over medium heat. Add shallot and garlic, saute until tender.

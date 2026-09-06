@@ -12,19 +12,19 @@ measurements:
   ingredient: cavatappi
 - amount: '45'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '30'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '480'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '200'
   unit: grams
   ingredient: English aged cheddar
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '0.5'
   unit: grams
   ingredient: paprika

@@ -8,16 +8,16 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '250'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '10'
   unit: grams
   ingredient: garlic
 - amount: '8'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '360'
   unit: grams
   ingredient: no-chicken stock

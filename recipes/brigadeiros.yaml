@@ -12,11 +12,11 @@ measurements:
   ingredient: Dutch cocoa powder
 - amount: '14'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '400'
   unit: grams
   prefix: (14 oz)
-  ingredient: condensed milk
+  ingredient: sweetened condensed milk
 - amount: 'enough'
   ingredient: chocolate sprinkles
 

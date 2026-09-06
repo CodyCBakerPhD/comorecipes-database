@@ -9,7 +9,7 @@ tags:
 measurements:
 - amount: '3.5'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '30'
   unit: grams
   prefix: warm
@@ -17,10 +17,10 @@ measurements:
 - amount: '169'
   unit: grams
   prefix: lukewarm
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '50'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '3'
   unit: grams
   ingredient: salt
@@ -32,16 +32,16 @@ measurements:
   ingredient: shortening
 - amount: '300'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '38'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '115'
   unit: grams
   ingredient: powdered sugar
 - amount: '3'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '30'
   unit: grams
   prefix: hot

@@ -8,10 +8,10 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '100'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '8'
   unit: grams
   ingredient: garlic
@@ -41,10 +41,10 @@ measurements:
   ingredient: Italian seasoning
 - amount: '4'
   unit: grams
-  ingredient: parsley
+  ingredient: dried parsley flakes
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 
 instructions:
 - Heat olive oil in a large soup pot. Cook the onion and garlic until soft. Stir in

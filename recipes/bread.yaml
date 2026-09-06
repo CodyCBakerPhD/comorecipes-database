@@ -12,10 +12,10 @@ measurements:
   ingredient: water
 - amount: '9'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '12'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '283'
   unit: grams
   ingredient: bread flour

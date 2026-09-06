@@ -20,7 +20,7 @@ measurements:
   suffix: ', trimmed and thinly sliced'
 - amount: '1'
   unit: portions
-  ingredient: squash
+  ingredient: yellow squash
   suffix: ', trimmed and thinly sliced'
 - amount: '2'
   unit: portions
@@ -28,7 +28,7 @@ measurements:
   suffix: ', trimmed and thinly sliced'
 - amount: '42'
   unit: grams
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '42'
   unit: grams
   ingredient: Mascarpone cheese

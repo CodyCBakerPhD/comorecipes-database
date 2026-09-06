@@ -11,13 +11,13 @@ measurements:
   ingredient: water
 - amount: '17'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '4'
   unit: grams
   ingredient: sugar or honey
 - amount: '255'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '6'
   unit: grams
   ingredient: salt

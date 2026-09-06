@@ -8,10 +8,10 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '100'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '10'
   unit: grams
   ingredient: garlic
@@ -26,7 +26,7 @@ measurements:
   ingredient: water
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '2'
   unit: grams
   ingredient: Italian seasoning
@@ -47,7 +47,7 @@ measurements:
   ingredient: shell pasta
 - amount: '50'
   unit: grams
-  ingredient: green beans
+  ingredient: fresh green beans
 - amount: '60'
   unit: grams
   ingredient: red wine

@@ -7,7 +7,7 @@ tags:
 measurements:
 - amount: '14'
   unit: grams
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '10'
   unit: grams
   ingredient: garlic
@@ -22,7 +22,7 @@ measurements:
   ingredient: soy sauce
 - amount: '42'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 
 instructions:
 - Heat oil over medium-high heat. Cook garlic for ~30 seconds. Add wine and reach

@@ -9,10 +9,10 @@ measurements:
   ingredient: blueberries
 - amount: '22'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '12'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '5'
   unit: grams
   ingredient: lemon juice

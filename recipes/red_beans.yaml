@@ -15,13 +15,13 @@ measurements:
   ingredient: rice
   recipe: rice
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '20'
   unit: grams
   ingredient: garlic
 - amount: '83'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '2'
   unit: portions
   ingredient: bay leaves

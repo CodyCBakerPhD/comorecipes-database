@@ -19,13 +19,13 @@ measurements:
   ingredient: egg
 - amount: '42'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '15'
   unit: grams
   ingredient: garlic
 - amount: '75'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '60'
   unit: grams
   ingredient: carrots

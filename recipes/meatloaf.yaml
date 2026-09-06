@@ -6,10 +6,10 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '80'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '8'
   unit: grams
   prefix: minced
@@ -20,16 +20,16 @@ measurements:
 - amount: '6'
   unit: grams
   prefix: fresh
-  ingredient: parsley
+  ingredient: dried parsley flakes
 - amount: '110'
   unit: grams
   ingredient: Panko breadcrumbs
 - amount: '38'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '3'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '1'
   unit: grams
   ingredient: Italian seasoning

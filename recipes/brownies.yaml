@@ -12,13 +12,13 @@ measurements:
   ingredient: vegetable oil
 - amount: '133'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '2'
   unit: portions
   ingredient: egg
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: grams
   ingredient: baking powder
@@ -30,7 +30,7 @@ measurements:
   ingredient: salt
 - amount: '60'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '42'
   unit: grams
   ingredient: chocolate chips

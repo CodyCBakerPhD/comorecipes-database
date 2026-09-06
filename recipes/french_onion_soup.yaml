@@ -8,13 +8,13 @@ tags:
 measurements:
 - amount: '56'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '800'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '4'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: 'enough'
   ingredient: water
 - amount: 'enough'

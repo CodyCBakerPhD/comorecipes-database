@@ -7,7 +7,7 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: 'enough'
   ingredient: salt
 - amount: '1'
@@ -16,7 +16,7 @@ measurements:
   ingredient: Shiitake mushrooms
 - amount: '100'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '0.25'
   unit: portions
   ingredient: kale
@@ -28,7 +28,7 @@ measurements:
   unit: portions
   ingredient: egg
 - amount: 'enough'
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: 'enough'
   ingredient: mozzarella
 - amount: 'enough'

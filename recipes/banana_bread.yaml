@@ -8,10 +8,10 @@ tags:
 measurements:
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '25'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '1'
   unit: portions
   ingredient: egg
@@ -26,7 +26,7 @@ measurements:
   ingredient: baking soda
 - amount: '75'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 
 instructions:
 - Preheat oven to 300 F.

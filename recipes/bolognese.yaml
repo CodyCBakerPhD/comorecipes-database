@@ -8,10 +8,10 @@ tags:
 
 measurements:
 - amount: 'enough'
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '200'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '70'
   unit: grams
   ingredient: carrots
@@ -21,7 +21,7 @@ measurements:
   ingredient: garlic
 - amount: '2'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '1'
   unit: grams
   ingredient: oregano
@@ -48,7 +48,7 @@ measurements:
 - amount: '1'
   unit: portions
   prefix: sliced
-  ingredient: mushrooms
+  ingredient: baby bella (button) mushrooms
 - amount: '337'
   unit: grams
   ingredient: rotini

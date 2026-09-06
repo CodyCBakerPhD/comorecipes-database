@@ -14,14 +14,14 @@ measurements:
 - amount: '125'
   unit: grams
   prefix: minced
-  ingredient: onion
+  ingredient: white onion
 - amount: '1'
   unit: portions
   ingredient: fresh tomatoes
 - amount: '150'
   unit: grams
   prefix: diced
-  ingredient: squash
+  ingredient: yellow squash
 - amount: '40'
   unit: grams
   ingredient: black bean chili spice

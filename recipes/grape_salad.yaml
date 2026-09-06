@@ -17,7 +17,7 @@ measurements:
   ingredient: sour cream
 - amount: '8'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: portions
   prefix: (2 lb.)
@@ -28,7 +28,7 @@ measurements:
   ingredient: green seedless grapes
 - amount: '33'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '21'
   unit: grams
   prefix: chopped

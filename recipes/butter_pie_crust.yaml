@@ -7,17 +7,17 @@ tags:
 measurements:
 - amount: '8'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '300'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '1'
   unit: grams
   ingredient: salt
 - amount: '227'
   unit: grams
   prefix: cold
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '118'
   unit: grams
   ingredient: ice water

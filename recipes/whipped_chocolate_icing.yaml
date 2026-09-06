@@ -16,14 +16,14 @@ measurements:
   ingredient: Dutch cocoa powder
 - amount: '84'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
   suffix: ', room temperature'
 - amount: '45'
   unit: grams
   ingredient: evaporated milk
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Sift the cocoa powder and powdered sugar together.

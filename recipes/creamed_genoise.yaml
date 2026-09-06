@@ -9,10 +9,10 @@ measurements:
 - amount: '188'
   unit: grams
   prefix: room temperature
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '188'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '3'
   unit: portions
   ingredient: egg
@@ -25,10 +25,10 @@ measurements:
   ingredient: baking powder
 - amount: '25'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Preheat to 350 F.

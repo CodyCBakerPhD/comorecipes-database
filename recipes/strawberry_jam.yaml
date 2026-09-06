@@ -13,10 +13,10 @@ measurements:
   suffix: ', thinly sliced'
 - amount: '40'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '40'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '20'
   unit: grams
   ingredient: honey
@@ -25,7 +25,7 @@ measurements:
   ingredient: cornstarch
 - amount: '1'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: grams
   ingredient: lime juice

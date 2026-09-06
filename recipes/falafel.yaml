@@ -8,22 +8,22 @@ tags:
 measurements:
 - amount: '453'
   unit: grams
-  ingredient: dry chickpeas
+  ingredient: dried chickpeas
 - amount: '75'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '10'
   unit: grams
-  ingredient: parsley
+  ingredient: dried parsley flakes
 - amount: '25'
   unit: grams
   ingredient: garlic
 - amount: '12'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 - amount: '10'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '10'
   unit: grams
   ingredient: cumin

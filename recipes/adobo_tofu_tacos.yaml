@@ -8,7 +8,7 @@ tags:
 measurements:
 - amount: '27'
   unit: grams
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '15'
   unit: grams
   ingredient: apple cider vinegar
@@ -29,7 +29,7 @@ measurements:
   ingredient: avocado oil
 - amount: '125'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '10'
   unit: grams
   ingredient: garlic
@@ -41,7 +41,7 @@ measurements:
   ingredient: tomato paste
 - amount: '200'
   unit: grams
-  ingredient: rice
+  ingredient: white rice
 - amount: '480'
   unit: grams
   ingredient: water

@@ -8,19 +8,19 @@ tags:
 measurements:
 - amount: '400'
   unit: grams
-  ingredient: condensed milk
+  ingredient: sweetened condensed milk
 - amount: '98'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '109'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '341'
   unit: grams
   ingredient: light corn syrup
 - amount: '2'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1'
   unit: grams
   ingredient: salt

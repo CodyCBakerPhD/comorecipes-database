@@ -9,10 +9,10 @@ tags:
 measurements:
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '125'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 - amount: '1'
   unit: portions
   ingredient: broccoli
@@ -24,7 +24,7 @@ measurements:
   ingredient: double cheddar
 - amount: '250'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '5'
   unit: grams
   ingredient: garlic powder

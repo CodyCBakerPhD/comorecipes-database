@@ -9,7 +9,7 @@ tags:
 measurements:
 - amount: '600'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '57'
   unit: grams
   ingredient: Dutch cocoa powder
@@ -21,10 +21,10 @@ measurements:
   ingredient: whole milk
 - amount: '57'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Butter heat-proof pan.

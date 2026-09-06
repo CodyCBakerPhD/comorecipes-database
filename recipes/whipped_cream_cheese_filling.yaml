@@ -8,7 +8,7 @@ tags:
 measurements:
 - amount: '230'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '65'
   unit: grams
   ingredient: cup powdered sugar
@@ -17,7 +17,7 @@ measurements:
   ingredient: cream cheese
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Chill whisk and bowl for stand mixer.

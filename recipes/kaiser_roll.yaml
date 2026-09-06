@@ -11,10 +11,10 @@ measurements:
   ingredient: water
 - amount: '17'
   unit: grams
-  ingredient: yeast
+  ingredient: active dry yeast
 - amount: '4'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '36'
   unit: grams
   ingredient: vegetable oil
@@ -23,7 +23,7 @@ measurements:
   ingredient: salt
 - amount: '240'
   unit: grams
-  ingredient: flour
+  ingredient: all-purpose flour
 
 instructions:
 - Preheat oven to 400 F. Activate yeast.

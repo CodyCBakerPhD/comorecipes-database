@@ -10,13 +10,13 @@ measurements:
   ingredient: ice cream
 - amount: '75'
   unit: grams
-  ingredient: milk
+  ingredient: 2% milk
 - amount: '10'
   unit: grams
   ingredient: malt powder
 - amount: '1'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 
 notes:

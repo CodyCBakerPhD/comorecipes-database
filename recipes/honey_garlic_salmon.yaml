@@ -13,13 +13,13 @@ measurements:
   ingredient: salt
 - amount: '1'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '2'
   unit: grams
   ingredient: paprika
 - amount: '28'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '16'
   unit: grams
   ingredient: garlic

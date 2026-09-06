@@ -10,10 +10,10 @@ measurements:
   ingredient: semi-sweet chocolate
 - amount: '75'
   unit: grams
-  ingredient: sugar
+  ingredient: granulated white sugar
 - amount: '120'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '80'
   unit: grams
   ingredient: corn syrup
@@ -25,10 +25,10 @@ measurements:
   ingredient: salt
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '28'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 
 instructions:
 - Whisk all ingredients except vanilla and butter thoroughly in a saucepan.

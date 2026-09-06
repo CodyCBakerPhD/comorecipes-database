@@ -32,7 +32,7 @@ measurements:
   unit: grams
   ingredient: Arborio rice
 - amount: 'enough'
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '907'
   unit: grams
   ingredient: water
@@ -45,10 +45,10 @@ measurements:
   recipe: bechamel_sauce
 - amount: '2'
   unit: grams
-  ingredient: salt and pepper
+  ingredient: salt and ground black pepper
 - amount: '14'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '15'
   unit: grams
   ingredient: Parmesan

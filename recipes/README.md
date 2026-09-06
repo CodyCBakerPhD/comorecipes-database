@@ -12,14 +12,14 @@ tags:
 measurements:
 - amount: '76'
   unit: grams
-  ingredient: olive oil
+  ingredient: extra virgin olive oil
 - amount: '32'
   unit: grams
   prefix: minced
   ingredient: garlic
 
 instructions:
-- Heat olive oil over medium heat.
+- Heat the oil over medium heat.
 - Add garlic and cook until golden.
 
 notes:
@@ -29,6 +29,8 @@ notes:
 The 'ingredients' in high-level recipes are officially referred to as 'measurements' in the low-level API. Each measurement has an `amount` (a number, or `enough`), an optional `unit`, the `ingredient`, and optional `prefix`/`suffix` qualifiers ("minced", ", room temperature").
 
 By convention, the ingredients of a recipe are listed in the order they are incorporated.
+
+Ingredients are named in full, exactly as they should be bought and used: `unsalted butter`, `extra virgin olive oil`, `2% milk`, `granulated white sugar`. There is no shorthand for the reader to expand, so anything a name leaves out (`flour` where `all-purpose flour` is meant) really is unspecified.
 
 The exact rules are in [`schemas/recipe.schema.json`](../schemas/recipe.schema.json).
 
@@ -45,39 +47,7 @@ When an ingredient is another recipe (such as `marinara sauce` in Spaghetti), gi
   recipe: marinara_sauce
 ```
 
-Links are only ever declared this way, never inferred from the ingredient name, so an ingredient that merely shares a recipe's name (the raw `celery` in Cornbread Dressing, the `rice` grain in Rice) stays a plain ingredient. Validation fails if the stem does not exist or names the recipe itself.
-
-
-
-## Default references
-
-There are several ingredients which are shortened for readability, but are expanded here for reference.
-
-|      Default       |             Full name              |
-|:------------------:|:----------------------------------:|
-|       sugar        |       granulated white sugar       |
-|       flour        |         all-purpose flour          |
-|       butter       |          unsalted butter           |
-|        milk        |              2% milk               |
-|   condensed milk   |      sweetened condensed milk      |
-|    brown sugar     |         light brown sugar          |
-|      vanilla       |          vanilla extract           |
-|      cinnamon      |          ground cinnamon           |
-|        sage        |         dried ground sage          |
-|       ginger       |        dried ground ginger         |
-|      parsley       |        dried parsley flakes        |
-|    fresh ginger    |         fresh ginger root          |
-|       pepper       |        ground black pepper         |
-|       yeast        |          active dry yeast          |
-|     olive oil      |       extra virgin olive oil       |
-|       cream        |            heavy cream             |
-|       squash       |           yellow squash            |
-|        rice        |             white rice             |
-|     mushrooms      |   baby bella (button) mushrooms    |
-|     chickpeas      |          dried chickpeas           |
-|  crushed tomatoes  |  canned crushed tomatoes (28 oz.)  |
-|    green beans     |         fresh green beans          |
-|       onion        |            white onion             |
+Links are only ever declared this way, never inferred from the ingredient name, so an ingredient that merely shares a recipe's name (the raw `celery` in Cornbread Dressing) stays a plain ingredient. Validation fails if the stem does not exist or names the recipe itself.
 
 
 

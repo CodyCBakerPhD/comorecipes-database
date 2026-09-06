@@ -10,14 +10,14 @@ measurements:
   suffix: ', room temperature'
 - amount: '35'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
   suffix: ', room temperature'
 - amount: '60'
   unit: grams
   ingredient: powdered sugar
 - amount: '1.5'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 - amount: '1.5'
   unit: grams
   ingredient: lemon juice

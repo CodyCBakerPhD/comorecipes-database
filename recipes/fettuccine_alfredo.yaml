@@ -13,10 +13,10 @@ measurements:
   suffix: (3 eggs worth)
 - amount: '35'
   unit: grams
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '240'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '12'
   unit: grams
   prefix: minced
@@ -26,7 +26,7 @@ measurements:
   ingredient: Parmesan
 - amount: '1'
   unit: portions
-  ingredient: mushrooms
+  ingredient: baby bella (button) mushrooms
 
 instructions:
 - Melt butter in saucepan over medium heat.

@@ -8,10 +8,10 @@ tags:
 measurements:
 - amount: '2'
   unit: portions
-  ingredient: mushrooms
+  ingredient: baby bella (button) mushrooms
 - amount: '2'
   unit: portions
-  ingredient: squash
+  ingredient: yellow squash
 - amount: '2'
   unit: portions
   ingredient: zucchini
@@ -23,7 +23,7 @@ measurements:
   ingredient: corn
 - amount: '200'
   unit: grams
-  ingredient: onion
+  ingredient: white onion
 
 instructions:
 - Grill all vegetables until perfect.

@@ -11,7 +11,7 @@ measurements:
   ingredient: mochiko
 - amount: '50'
   unit: grams
-  ingredient: brown sugar
+  ingredient: light brown sugar
 - amount: '5'
   unit: grams
   ingredient: baking powder
@@ -21,7 +21,7 @@ measurements:
 - amount: '50'
   unit: grams
   prefix: melted
-  ingredient: butter
+  ingredient: unsalted butter
 - amount: '1'
   unit: portions
   ingredient: egg
@@ -30,7 +30,7 @@ measurements:
   ingredient: whole milk
 - amount: '4'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Preheat to 350. grease pan.

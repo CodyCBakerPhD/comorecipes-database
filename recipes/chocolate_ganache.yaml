@@ -12,10 +12,10 @@ measurements:
   ingredient: semi-sweet chocolate
 - amount: '120'
   unit: grams
-  ingredient: cream
+  ingredient: heavy cream
 - amount: '2'
   unit: grams
-  ingredient: vanilla
+  ingredient: vanilla extract
 
 instructions:
 - Combine chocolate and heavy cream in a small saucepan over medium heat.

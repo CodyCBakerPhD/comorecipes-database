@@ -1,8 +1,8 @@
 # CoMo Recipes Database
 
-The collection of recipes for our household: one YAML file per recipe in `recipes/` and one per registered ingredient in `ingredients/`.
+The collection of recipes for our household.
 
-This repo is the source of truth for the data only. The [CoMo Recipes website](https://github.com/CodyCBakerPhD/comorecipes) is built from `main` here on a daily schedule, and trusts that every record has passed [validation](#validation).
+These are nicely rendered on the main [CoMo Recipes website](https://github.com/CodyCBakerPhD/comorecipes).
 
 
 

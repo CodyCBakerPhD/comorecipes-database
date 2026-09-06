@@ -32,10 +32,6 @@ By convention, the ingredients of a recipe are listed in the order they are inco
 
 Ingredients are named in full, exactly as they should be bought and used: `unsalted butter`, `extra virgin olive oil`, `2% milk`, `granulated white sugar`. There is no shorthand for the reader to expand, so anything a name leaves out (`flour` where `all-purpose flour` is meant) really is unspecified.
 
-Preparation is just as explicit: the `prefix` says how this recipe wants the ingredient (`minced garlic`, `chopped white onion`, `sliced white onion` where the recipe layers them), and anything that needs a step of its own is a step in `instructions`. There are no household defaults applied silently on top of what a recipe says.
-
-The exact rules are in [`schemas/recipe.schema.json`](../schemas/recipe.schema.json).
-
 
 
 ## Recipes as ingredients

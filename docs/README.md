@@ -44,5 +44,3 @@ When an ingredient is another recipe (such as `marinara sauce` in Spaghetti), gi
   ingredient: marinara sauce
   recipe: marinara_sauce
 ```
-
-Links are only ever declared this way, never inferred from the ingredient name, so an ingredient that merely shares a recipe's name (the raw `celery` in Cornbread Dressing) stays a plain ingredient. Validation fails if the stem does not exist or names the recipe itself.

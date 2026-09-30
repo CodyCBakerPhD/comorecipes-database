@@ -23,7 +23,7 @@ measurements:
   unit: grams
   prefix: diced
   ingredient: yellow squash
-- amount: '40'
+- amount: '50'
   unit: grams
   ingredient: black bean chili spice
   recipe: black_bean_chili_spice

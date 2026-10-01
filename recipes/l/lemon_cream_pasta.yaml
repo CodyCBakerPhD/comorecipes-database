@@ -22,7 +22,7 @@ measurements:
 - amount: '30'
   unit: grams
   ingredient: all-purpose flour
-- amount: '500'
+- amount: '250'
   unit: grams
   ingredient: 2% milk
 - amount: '2'

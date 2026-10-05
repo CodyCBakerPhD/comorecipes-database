@@ -35,7 +35,6 @@ measurements:
 - amount: '0.5'
   unit: grams
   ingredient: red pepper flakes
-  suffix: ', optional'
 
 instructions:
 - In a bowl or a jar with a lid, whisk or shake all of the ingredients until combined.

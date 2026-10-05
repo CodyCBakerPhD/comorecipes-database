@@ -22,10 +22,9 @@ measurements:
   unit: grams
   prefix: minced
   ingredient: garlic
-- amount: '5'
+- amount: '1'
   unit: grams
-  prefix: grated
-  ingredient: fresh ginger root
+  ingredient: dried ground ginger
 - amount: '12.5'
   unit: grams
   ingredient: sugar or honey

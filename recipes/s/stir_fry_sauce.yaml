@@ -1,0 +1,49 @@
+name: Stir Fry Sauce
+
+tags:
+- Asian
+- Vegetarian
+- Component
+
+measurements:
+- amount: '128'
+  unit: grams
+  ingredient: low-sodium soy sauce
+- amount: '120'
+  unit: grams
+  ingredient: low-sodium vegetable stock
+  suffix: ', or water'
+- amount: '4.5'
+  unit: grams
+  ingredient: sesame oil
+- amount: '7.5'
+  unit: grams
+  ingredient: rice vinegar
+- amount: '10'
+  unit: grams
+  prefix: minced
+  ingredient: garlic
+- amount: '5'
+  unit: grams
+  prefix: grated
+  ingredient: fresh ginger root
+- amount: '12.5'
+  unit: grams
+  ingredient: sugar or honey
+- amount: '8'
+  unit: grams
+  ingredient: cornstarch
+- amount: '0.5'
+  unit: grams
+  ingredient: red pepper flakes
+  suffix: ', optional'
+
+instructions:
+- In a bowl or a jar with a lid, whisk or shake all of the ingredients until combined.
+- Use immediately in a stir fry, simmering the sauce to thicken it, or store in an airtight container in the fridge for up to 1 week.
+
+notes:
+- Makes about 300 grams (1 1/4 cups) of sauce; start by adding half to a stir fry and add more to taste.
+- For a sweeter sauce, use up to 25 grams of sugar or honey.
+- For a more sour sauce, use 15 grams of rice vinegar.
+- For more ginger, use up to 10 grams.

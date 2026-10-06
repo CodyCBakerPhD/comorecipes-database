@@ -6,32 +6,32 @@ tags:
 - Component
 
 measurements:
-- amount: '128'
+- amount: '64'
   unit: grams
   ingredient: low-sodium soy sauce
-- amount: '120'
+- amount: '60'
   unit: grams
   ingredient: low-sodium vegetable stock
-- amount: '4.5'
+- amount: '2.25'
   unit: grams
   ingredient: sesame oil
-- amount: '7.5'
+- amount: '3.75'
   unit: grams
   ingredient: rice vinegar
-- amount: '10'
+- amount: '5'
   unit: grams
   prefix: minced
   ingredient: garlic
-- amount: '0.5'
+- amount: '0.25'
   unit: grams
   ingredient: dried ground ginger
-- amount: '12.5'
+- amount: '6.25'
   unit: grams
   ingredient: sugar or honey
-- amount: '8'
+- amount: '4'
   unit: grams
   ingredient: cornstarch
-- amount: '0.5'
+- amount: '0.25'
   unit: grams
   ingredient: red pepper flakes
 
@@ -40,5 +40,5 @@ instructions:
 - Use immediately in a stir fry, simmering the sauce to thicken it, or store in an airtight container in the fridge for up to 1 week.
 
 notes:
-- For a sweeter sauce, add up to 12.5 grams more sugar or honey.
-- For a more sour sauce, add up to 7.5 grams more rice vinegar.
+- 'To make extra sweet: add up to 6.25 grams more sugar or honey.'
+- 'To make extra sour: add up to 3.75 grams more rice vinegar.'

@@ -6,19 +6,19 @@ tags:
 - Entree
 
 measurements:
-- amount: '27'
+- amount: '54'
   unit: grams
   ingredient: extra virgin olive oil
-- amount: '15'
+- amount: '30'
   unit: grams
   ingredient: apple cider vinegar
-- amount: '7'
+- amount: '14'
   unit: grams
   ingredient: Mexican adobo seasoning
-- amount: '60'
+- amount: '120'
   unit: grams
   ingredient: tomato sauce
-- amount: '3'
+- amount: '6'
   unit: grams
   ingredient: salt
 - amount: '400'

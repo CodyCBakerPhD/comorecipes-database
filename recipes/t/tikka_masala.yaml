@@ -23,15 +23,11 @@ measurements:
   unit: grams
   prefix: minced
   ingredient: garlic
-- amount: '250'
-  unit: grams
-  prefix: chopped
-  ingredient: white onion
 - amount: '33.5'
   unit: grams
   ingredient: tikka masala seasoning
   recipe: tikka_masala_seasoning
-- amount: '113'
+- amount: '56.5'
   unit: grams
   ingredient: dried chickpeas
 - amount: '1'

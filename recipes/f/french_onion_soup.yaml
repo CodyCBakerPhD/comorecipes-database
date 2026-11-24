@@ -24,7 +24,9 @@ measurements:
   ingredient: red wine
 - amount: '1'
   unit: portions
-  ingredient: toasted baguette
+  prefix: toasted
+  ingredient: baguette
+  recipe: baguette
 - amount: '1'
   unit: portions
   ingredient: Swiss cheese

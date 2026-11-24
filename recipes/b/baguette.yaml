@@ -1,0 +1,34 @@
+name: Baguette
+
+tags:
+- French
+- Vegetarian
+- Side
+
+measurements:
+- amount: '240'
+  unit: grams
+  prefix: warm
+  ingredient: water
+- amount: '9'
+  unit: grams
+  ingredient: active dry yeast
+- amount: '12'
+  unit: grams
+  ingredient: granulated white sugar
+- amount: '320'
+  unit: grams
+  ingredient: bread flour
+- amount: '6'
+  unit: grams
+  ingredient: salt
+
+instructions:
+- Activate yeast in water and sugar for about 10 minutes.
+- Whisk flour and salt in separate bowl.
+- Combine in stand mixer and knead for about 3 minutes on medium-low.
+- Stretch gently with wet hands every 10-15 minutes for 1 hour, trying to preserve all air bubbles.
+- Preheat oven to 450 F.
+- Form into a baguette on parchment paper.
+- Slash deeply.
+- Bake for 25-30 minutes.

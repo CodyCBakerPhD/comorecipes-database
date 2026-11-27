@@ -6,19 +6,19 @@ tags:
 - Entree
 
 measurements:
-- amount: '720'
+- amount: '120'
   unit: grams
   ingredient: all-purpose flour
-- amount: '13'
+- amount: '2.2'
   unit: grams
   ingredient: salt and ground black pepper
-- amount: '20'
+- amount: '3.3'
   unit: grams
   ingredient: garlic powder
-- amount: '7'
+- amount: '1.2'
   unit: grams
   ingredient: onion powder
-- amount: '8'
+- amount: '1.3'
   unit: grams
   ingredient: cayenne pepper
 
